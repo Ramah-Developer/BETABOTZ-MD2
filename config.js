@@ -1,22 +1,22 @@
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866'
+global.owner = ['256703025571']  
+global.mods = ['256703025571'] 
+global.prems = ['256703025571']
+global.nameowner = 'RAMADHAN ALPHA'
+global.numberowner = '256703025571'
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
 global.instagram = 'https://instagram.com/erlanrahmat_14'
 global.wm = '© Tio'
-global.wait = '_*Tunggu sedang di proses...*_'
+global.wait = '_*Please wait, it is being processed...*_'
 global.eror = '_*Server Error*_'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
+global.stiker_wait = '*⫹⫺ Stickers are being created...*'
 global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
-global.maxwarn = '2' // Peringatan maksimum
+global.author = 'RMH'
+global.maxwarn = '2' // Maximum warning
 global.antiporn = true // Auto delete pesan porno (bot harus admin)
 
 //INI WAJIB DI ISI!//
-global.lann = 'YOUR_APIKEY_HERE' 
+global.lann = 'kYEXuiS5' 
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
@@ -28,7 +28,7 @@ global.APIs = {
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.betabotz.eu.org': 'APIKEY', 
+  'https://api.betabotz.eu.org': 'kYEXuiS5', 
   'https://api.botcahx.eu.org': 'APIKEY'
 }
 
